@@ -1,0 +1,17 @@
+Proyecto -> 
+	Fermentacion
+
+Tarea ->
+
+	Secado
+	Almacen
+	Otro...
+
+
+1- Cuenta administrativa
+2- Producto
+3- Usuario
+
+
+4- En vez de proyecto => Centro de costo
+5- Solo puede tener una actividad corriendo ...

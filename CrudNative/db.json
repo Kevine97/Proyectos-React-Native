@@ -1,0 +1,74 @@
+{
+  "clientes": [
+    {
+      "nombre": "Kevin Esquivel ",
+      "telefono": "82784374",
+      "correo": "Kevinesquivelrojas@hotmail.com ",
+      "empresa": "Ingemann ",
+      "id": 1
+    },
+    {
+      "nombre": "Carlos ",
+      "telefono": "82784364",
+      "correo": "Carlos@hotmail.com",
+      "empresa": "Ingemann ",
+      "id": 2
+    },
+    {
+      "nombre": "Milton",
+      "telefono": "82780924",
+      "correo": "Milton@hotmail.com",
+      "empresa": "Ingemann ",
+      "id": 3
+    },
+    {
+      "nombre": "Hola",
+      "telefono": "Jfjfj",
+      "correo": "Fjfjd",
+      "empresa": "Jdjdjd",
+      "id": 4
+    },
+    {
+      "nombre": "Hola",
+      "telefono": "Jfjfj",
+      "correo": "Fjfjd",
+      "empresa": "Jdjdjd",
+      "id": 5
+    },
+    {
+      "nombre": "Hola",
+      "telefono": "Jfjfj",
+      "correo": "Fjfjd",
+      "empresa": "Jdjdjd",
+      "id": 6
+    },
+    {
+      "nombre": "Hxjd",
+      "telefono": "Jdjdd",
+      "correo": "Hxjdjd",
+      "empresa": "Djdjd",
+      "id": 7
+    },
+    {
+      "nombre": "Yulissa",
+      "telefono": "82784374",
+      "correo": "Yuli@ingamann.com",
+      "empresa": "Ingemann",
+      "id": 8
+    },
+    {
+      "nombre": "Cristel ",
+      "telefono": "82784374",
+      "correo": "Cristel@hotmail.com",
+      "empresa": "Ingemann",
+      "id": 9
+    },
+    {
+      "nombre": "Cristofer",
+      "telefono": "82784374",
+      "correo": "Crist@ingemann.com",
+      "empresa": "Ingemann ",
+      "id": 10
+    }
+  ]
+}
